@@ -15,6 +15,3 @@ Jika ada saran dan masukan, silahkan buka [issue](https://github.com/petanikode/
 - [Tutorial Codeigniter #2: Memahami Router dan Controller](https://www.petanikode.com/codeigniter-mvc/)
 - [Tutorial Codeigniter #3: Menggunakan Bootstrap pada Codeigniter](https://www.petanikode.com/codeigniter-bootstrap/)
 - [Tutorial Codeigniter #4: Membaut Template untuk Admin](https://www.petanikode.com/codeigniter-template/)
-- ...
-
-Tutorial berikutnya (insya'allah) akan ditambahkan.
